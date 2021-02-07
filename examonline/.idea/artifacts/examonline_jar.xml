@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="examonline:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/examonline_jar</output-path>
+    <root id="archive" name="examonline.jar">
+      <element id="module-output" name="examonline" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/asm-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cglib-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mybatis-3.2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-api-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-api-2.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-core-2.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javassist-3.17.1-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-log4j12-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

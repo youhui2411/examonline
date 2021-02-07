@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yyh.mapper.PaperMapper">
+    <insert id="ins" parameterType="paper">
+        insert into t_paper values(#{pid}, #{course}, #{questionNum}, #{time}, #{point}, #{listTitle}, #{listAnswer}, #{userPoint})
+    </insert>
+
+    <delete id="delById" parameterType="int">
+        delete from t_paper where pid=#{0}
+    </delete>
+
+    <delete id="del" parameterType="paper">
+        delete from t_paper where pid=#{pid}
+    </delete>
+
+    <update id="upd" parameterType="paper">
+        update t_paper set course=#{course},questionNum=#{questionNum},time=#{time},point=#{point},listTitle=#{listTitle},listAnswer=#{listAnswer},userPoint=#{userPoint} where pid=#{pid};
+    </update>
+
+    <update id="updByIdCourse">
+        update t_paper set userPoint=#{2} where pid=#{0} and course=#{1};
+    </update>
+
+    <select id="selById" parameterType="int" resultType="paper">
+        select * from t_paper where pid=#{pid}
+    </select>
+
+    <select id="selByIdCourse" parameterType="paper" resultType="paper">
+        select * from t_paper where pid=#{pid} and course = #{course}
+    </select>
+
+    <select id="selByCourse" parameterType="String" resultType="paper">
+        select * from t_paper where course = #{course}
+    </select>
+
+    <select id="selAll" resultType="paper">
+        select * from t_paper
+    </select>
+
+    <select id="selCourse" resultType="String">
+        select distinct course from t_paper
+    </select>
+</mapper>

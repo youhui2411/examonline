@@ -1,0 +1,1758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="examonline:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0f0f8dc-c033-4ea4-9228-bd4904c42d64" name="Default Changelist" comment="">
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-886447738-2432907650-4130834556-1001/$IT777Q6.zip" afterDir="false" />
+      <change afterPath="D:/PHPWork/Connection.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/7-10.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/7-13.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/7-6.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/7-7.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/addform.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/conn.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/delete.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/edit.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/editform.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/insert.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/DBConn/search.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/FileUpload.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/commentFilter.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/css/style.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/doLogin.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/doVideoDelete.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/doVideoUpdate.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/doVideoUpload.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/image/BG.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/index.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/learnArea.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/left.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/main.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/movieArea.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/nav.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/otherArea.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/resetPass.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/serialArea.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/test.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/updateVideoModal.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/userComment.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/videoHot.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/videoManage.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/videoUpdate.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/admin/videoUpload.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/common/checkFormLib.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/common/code.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/common/comment.dao.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/common/error.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/common/like.dao.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/common/pdo.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/common/user.dao.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/common/video.dao.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/config/jikeevideo.sql" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/css/style.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/doComment.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/doFavourite.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/doLogin.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/doRegister.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/doUpdatePassword.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/doUpdateUser.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/emptyModal.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/footer.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/hotVideo.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/1.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/2.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/20200708164008395.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/3.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/4.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/5.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/6.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/7.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/Logo.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/banner/001.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/banner/002.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/banner/003.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/img/test.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/index.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/js/bootstrap.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/latestVideo.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/learnArea.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/movieArea.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/nav.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/searchArea.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/serialArea.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/test/test.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/updateLike.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/updatePassword.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/updateUser.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/userCenter.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Movie/video.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/NumberGame.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/delete.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/detail.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/do_edit.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/edit.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/index.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/lib/fun.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/login.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/login_out.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/msg.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/publish.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/register.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/css/add.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/css/common.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/css/detail.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/css/done.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/css/error.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/css/index.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/css/login.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/file/2019/0813/5d525f98255351294.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/file/2019/0813/5d526745b420b2214.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/file/2019/0813/5d526ae465dad9735.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/file/2019/0813/5d526af27ed8b3782.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/file/2019/0816/5d56496e12ccf6306.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/file/2019/0816/5d5649cae126a2472.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/file/2019/0816/5d564a21d450d4748.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/image/details_01.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/image/index_banner.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/image/login_banner.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/image/logo.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/image/welcome.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/auto-height.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/colorpicker.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/custom-plugin.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/custom-theme.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/default.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/dialog.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/dynamic-load.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/file-dialog.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/file-manager.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/filter-mode.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/image-dialog.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/index.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/index.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/jquery-ui-1.9.2.custom.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/jquery-ui-1.9.2.custom.min.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/js/jquery-ui-1.9.2.custom.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery-ui/js/jquery-ui-1.9.2.custom.min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/jquery.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/multi-image-dialog.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/multi-language.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/newline.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/node.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/paste-type.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/qqstyle.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/readonly.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/simple.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/uploadbutton.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/url-type.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/examples/word-count.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/kindeditor-4.1.11.min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/kindeditor-all-min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/kindeditor-all.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/kindeditor-min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/kindeditor.fx.all.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/kindeditor.fx.min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/kindeditor.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/kindeditor_egg.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/lang/ar.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/lang/en.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/lang/ko.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/lang/zh_CN.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/lang/zh_TW.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/license.txt" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/php/JSON.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/php/demo.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/php/file_manager_json.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/php/upload_json.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/anchor/anchor.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/autoheight/autoheight.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/baidumap/baidumap.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/baidumap/index.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/baidumap/map.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/clearhtml/clearhtml.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/code/code.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/code/prettify.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/code/prettify.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/emoticons.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/0.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/1.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/10.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/100.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/101.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/102.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/103.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/104.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/105.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/106.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/107.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/108.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/109.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/11.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/110.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/111.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/112.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/113.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/114.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/115.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/116.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/117.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/118.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/119.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/12.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/120.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/121.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/122.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/123.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/124.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/125.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/126.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/127.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/128.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/129.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/13.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/130.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/131.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/132.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/133.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/134.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/14.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/15.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/16.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/17.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/18.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/19.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/2.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/20.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/21.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/22.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/23.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/24.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/25.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/26.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/27.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/28.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/29.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/3.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/30.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/31.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/32.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/33.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/34.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/35.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/36.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/37.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/38.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/39.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/4.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/40.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/41.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/42.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/43.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/44.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/45.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/46.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/47.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/48.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/49.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/5.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/50.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/51.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/52.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/53.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/54.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/55.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/56.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/57.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/58.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/59.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/6.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/60.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/61.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/62.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/63.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/64.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/65.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/66.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/67.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/68.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/69.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/7.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/70.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/71.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/72.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/73.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/74.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/75.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/76.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/77.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/78.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/79.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/8.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/80.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/81.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/82.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/83.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/84.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/85.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/86.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/87.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/88.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/89.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/9.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/90.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/91.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/92.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/93.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/94.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/95.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/96.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/97.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/98.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/99.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/emoticons/images/static.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/filemanager/filemanager.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/filemanager/images/file-16.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/filemanager/images/file-64.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/filemanager/images/folder-16.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/filemanager/images/folder-64.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/filemanager/images/go-up.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/flash/flash.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/image/image.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/image/images/align_left.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/image/images/align_right.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/image/images/align_top.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/image/images/refresh.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/insertfile/insertfile.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/lineheight/lineheight.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/link/link.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/map/map.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/map/map.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/media/media.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/multiimage/images/image.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/multiimage/images/select-files-en.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/multiimage/images/swfupload.swf" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/multiimage/multiimage.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/pagebreak/pagebreak.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/plainpaste/plainpaste.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/preview/preview.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/quickformat/quickformat.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/table/table.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/template/html/1.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/template/html/2.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/template/html/3.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/template/template.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/plugins/wordpaste/wordpaste.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/common/anchor.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/common/blank.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/common/flash.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/common/loading.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/common/media.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/common/rm.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/default/background.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/default/default.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/default/default.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/qq/editor.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/qq/qq.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/kindeditor/themes/simple/simple.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/layer/layer.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/layer/skin/default/icon-ext.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/layer/skin/default/icon.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/layer/skin/default/layer.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/layer/skin/default/loading-0.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/layer/skin/default/loading-1.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/layer/skin/default/loading-2.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/en.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/addimage.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/background.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/button.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/copy.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/deletedisable.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/deleteenable.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/listbackground.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/localimage.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/music.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/rotateleftdisable.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/rotateleftenable.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/rotaterightdisable.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/rotaterightenable.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/en/images/upload.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/zh-cn/images/copy.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/zh-cn/images/localimage.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/zh-cn/images/music.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/zh-cn/images/upload.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/css/ueditor.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/css/ueditor.min.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/dialogbase.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/anchor.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/arrow.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/arrow_down.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/arrow_up.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/button-bg.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/cancelbutton.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/charts.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/cursor_h.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/cursor_h.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/cursor_v.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/cursor_v.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/dialog-title-bg.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/filescan.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/highlighted.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/icons-all.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/icons.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/icons.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/loaderror.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/lock.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/pagebreak.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/scale.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/sortable.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/spacer.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/sparator_v.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/table-cell-align.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/tangram-colorpicker.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/toolbar_bg.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/unhighlighted.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/upload.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/videologo.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/word.gif" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/default/images/wordpaste.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/themes/iframe.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/ueditor.all.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/ueditor.all.min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/ueditor.config.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/ueditor.parse.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/static/js/ue/ueditor.parse.min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/Text/web_image-text.sql" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/common/album.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/common/config.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/common/db.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/common/function.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/common/init.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2018-05/29/1b8dba8623ca1b893a72e2fd18926c11.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2018-05/29/2c677036ba7d6381be0120d1e201e95c.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2018-05/29/3aa2db7255084f935d325a69d6feb5b7.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2018-05/29/d4594daa988c5bbb2e73b666a1948a28.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2018-05/30/4ddb9e874649be34d4d7d8f17f2a00d7.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2019-05/21/19dc34339e6d44ebb47a40d215559b0e.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2019-05/21/510974e5d3b02f9a7e5ea3a12ba1a504.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2019-05/21/8dee0de484daf6377d4665e0e76cbab6.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2019-05/21/8f58d3a88af08c9434243669d9aaf9ba.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2019-05/21/fbc6ce415f4aa5ac419162d77d789906.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2020-12/15/08ef5ada6b5c05e4a6da8faaaa013923.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/2020-12/15/afda03014594b6f0e3637ff43cdd2c44.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/covers/nopic.png" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/css/style.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/data.sql" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/index.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/js/common.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/repair.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/search.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/show.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/10c21ffd5489fc00968d9637e0e5d58d.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/1b8dba8623ca1b893a72e2fd18926c11.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/2c677036ba7d6381be0120d1e201e95c.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/3aa2db7255084f935d325a69d6feb5b7.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/4a286b7e7b12e63c5532936af7327b7f.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/618b722e8df074ae4382b6810a42d3a3.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/893d9d7a72c2f581e1cdf4656cc40200.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/8b95b0a460dca60bf6b8daf0beeba9a0.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/a9ed3676a646f042c2daac0f5f1f4aba.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/c4e3a504167abc3f3012ebdcf65aa358.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/d1910def624c0dfb99a046940d24afad.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/d4594daa988c5bbb2e73b666a1948a28.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/dd29c0d592d90c444309697068b78c43.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/29/f0646daea03edeb00f9abf6db0a2721f.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-05/30/4ddb9e874649be34d4d7d8f17f2a00d7.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2018-06/04/8854144406faef88bee08d5ec62fd349.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/19dc34339e6d44ebb47a40d215559b0e.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/510974e5d3b02f9a7e5ea3a12ba1a504.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/594aa5adcc1084e9fca172262d11651d.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/60b7601201b301c3365632fbfc4b87c3.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/6a3f7dde941996cfed56d8db4f4438ec.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/888b7cac70f649333552e86f13de86a0.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/8dee0de484daf6377d4665e0e76cbab6.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/8f58d3a88af08c9434243669d9aaf9ba.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/950b1956c3a09a7197785e88b042b83c.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/a3fe3b8701e91d3a8d6fcecaca75411e.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/be4c35d19d966b4f20576fec9a318843.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/c2319936660140c08afdb1d2495654a0.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/e91f83e816d6a6cf9219cd9608b65237.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2019-05/21/fbc6ce415f4aa5ac419162d77d789906.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2020-12/15/08ef5ada6b5c05e4a6da8faaaa013923.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2020-12/15/57e44dc537f5563171851c365d11b71d.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2020-12/15/7296e37394b6d70d79707540f6af9904.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2020-12/15/935666587169018a2247b813d76a38d9.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2020-12/15/a8e409ff83c4eb860d2c1406d8c1a088.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2020-12/15/abad8f75a0cef02d75bf25afd201d706.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/thumbs/2020-12/15/afda03014594b6f0e3637ff43cdd2c44.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/uploads/2020-12/15/08ef5ada6b5c05e4a6da8faaaa013923.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/uploads/2020-12/15/57e44dc537f5563171851c365d11b71d.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/uploads/2020-12/15/7296e37394b6d70d79707540f6af9904.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/uploads/2020-12/15/935666587169018a2247b813d76a38d9.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/uploads/2020-12/15/a8e409ff83c4eb860d2c1406d8c1a088.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/uploads/2020-12/15/abad8f75a0cef02d75bf25afd201d706.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/uploads/2020-12/15/afda03014594b6f0e3637ff43cdd2c44.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/view/common/footer.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/view/common/top.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/view/index.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/view/search.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/album/view/show.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/arr.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/bgcd.jpg" afterDir="false" />
+      <change afterPath="D:/PHPWork/calculate.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/calendar.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/check.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/cookie/login.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/cookie/login_action.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/cookie/logout.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/demo.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/demo.txt" afterDir="false" />
+      <change afterPath="D:/PHPWork/form.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/general.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/header.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/index.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/session/index.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/session/login.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/testForm.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/welcome.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/common/function.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/common/init.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/css/style.css" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/data.sql" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/index.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/js/common.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/save.php" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/view/common/add.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/view/common/edit.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/view/common/password.html" afterDir="false" />
+      <change afterPath="D:/PHPWork/xuyuanqiang/view/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/DeserializeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/DirList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/DuoTai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/GreetingClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/GreetingServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/IPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/SelectName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/SerializeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/SpiderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/TestGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/TestGenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/TestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/tcp/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/tcp/FileClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/tcp/FileServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/tcp/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/IOUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/TalkReceive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/TalkSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/TalkStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/TalkTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/UdpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/UdpFileClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/UdpFileServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/UdpObjClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/UdpObjServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/UdpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/UdpTypeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/com/bjsxt/udp/UdpTypeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWord/src/tmp/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/Aerocraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/AirForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/ArmyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/AttackAir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/AttackLand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/AttackLandAir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/Bomber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/FlyingSoldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/HeavyTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/Helicopter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/Infantry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/LandForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/LightTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/Soldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test4/RecogC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test4/SplitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test5/RecogFixedPhoNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_test4/src/com/yyh/test5/RecogPhoNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/src/com/yyh/window/LoginWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloWeb/src/com/bjsxt/servlet/AddUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/hibernate-core-5.0.7.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/hibernate-entitymanager-5.0.7.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/jandex-2.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/javassist-3.18.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/mysql-connector-java-5.0.4-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/slf4j-api-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/lib/slf4j-log4j12-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/src/com/yyh/entity/User.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/src/com/yyh/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/src/com/yyh/hibernatetest/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/src/com/yyh/utils/HibernateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate01/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet/src/com/yyh/servlet/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-web/src/main/java/com/yyh/springbootweb/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-web/src/main/java/com/yyh/springbootweb/controller/FileUploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-web/src/main/java/com/yyh/springbootweb/filter/FirstFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-web/src/main/java/com/yyh/springbootweb/listener/FirstListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-web/src/main/java/com/yyh/springbootweb/servlet/FirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-web/src/main/resources/static/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/aopalliance.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/aspectjrt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/aspectjweaver.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/c3p0-0.9.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/hibernate-c3p0-5.0.7.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/hibernate-core-5.0.7.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/jandex-2.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/javassist-3.18.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/mchange-commons-java-0.2.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/spring-aop-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/spring-aspects-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/spring-beans-4.2.0.RELEASE(1).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/spring-context-4.2.0.RELEASE(1).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/spring-core-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/spring-expression-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/spring-jdbc-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/spring-orm-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/spring-test-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/lib/spring-tx-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_hibernate/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mq/springboot-mq-consumer/src/main/java/com/yyh/springbootmqconsumer/PushReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mq/springboot-mq-consumer/src/main/java/com/yyh/springbootmqconsumer/RedReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mq/springboot-mq-consumer/src/main/java/com/yyh/springbootmqconsumer/SmsReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mq/springboot-mq-consumer/src/main/java/com/yyh/springbootmqconsumer/SpringbootMqConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mq/springboot-mq-provider/src/main/java/com/yyh/springbootmqprovider/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mq/src/main/java/com/yyh/springbootmq/QueueConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mq/src/main/java/com/yyh/springbootmq/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mq/src/main/java/com/yyh/springbootmq/Sender.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/yyh/app/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML File.xml" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jButton5</find>
+      <find>jTextArea1</find>
+      <find>jLabel</find>
+      <find>jlabel</find>
+      <find>Layout</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/yyh/exception/QuestionExistException.java" />
+        <option value="$PROJECT_DIR$/mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/com/yyh/util/ImportTitle.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/util/ImportUser.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/WelcomeWindow.java" />
+        <option value="$PROJECT_DIR$/src/title.txt" />
+        <option value="$PROJECT_DIR$/user.txt" />
+        <option value="$PROJECT_DIR$/src/com/yyh/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/com/yyh/mapper/TitleMapper.xml" />
+        <option value="$PROJECT_DIR$/src/com/yyh/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/app/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/exception/StudentExistException.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/mapper/PaperMapper.xml" />
+        <option value="$PROJECT_DIR$/src/com/yyh/app/App.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/mapper/PaperMapper.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/mapper/TitleMapper.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/pojo/Paper.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/pojo/Title.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/pojo/User.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/service/impl/PaperServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/service/impl/TitleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/service/impl/UerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/service/PaperService.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/service/TitleService.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/util/CountdownUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/util/ImportTitleUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/util/ImportUserUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/util/MD5Util.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/util/MybatisUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/util/VeriCodeUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/AddTitleWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/ChangePasswordWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/ExamWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/GradeManageWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/LoginWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/SelectCourseWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/StudentManageWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/StudentWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/TeacherWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/TitleManageWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/UpdateStudentWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/UpdateTitleWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/yyh/view/CreatePaperWindow.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/soft/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="D:\Maven\soft\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-130" />
+    <option name="y" value="235" />
+    <option name="width" value="1620" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="examonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examonline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examonline" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examonline" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examonline" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="examonline_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examonline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examonline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examonline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yyh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examonline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yyh" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examonline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yyh" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWork\examonline\images" />
+      <recent name="D:\ideaWork\examonline\src\com\yyh\exception" />
+      <recent name="D:\ideaWork\examonline\lib" />
+      <recent name="D:\ideaWork\examonline" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaWork\examonline" />
+      <recent name="D:\ideaWork\examonline\src" />
+      <recent name="D:\ideaWork\examonline\src\com\yyh\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.app.App" />
+      <module name="examonline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyh.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.view.ExamWindow" />
+      <module name="examonline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyh.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeManageWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.view.GradeManageWindow" />
+      <module name="examonline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyh.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.view.LoginWindow" />
+      <module name="examonline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyh.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.view.TeacherWindow" />
+      <module name="examonline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyh.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.TeacherWindow" />
+        <item itemvalue="Application.GradeManageWindow" />
+        <item itemvalue="Application.LoginWindow" />
+        <item itemvalue="Application.ExamWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0f0f8dc-c033-4ea4-9228-bd4904c42d64" name="Default Changelist" comment="" />
+      <created>1606043612359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606043612359</updated>
+      <workItem from="1606043615280" duration="20119000" />
+      <workItem from="1606129518297" duration="6468000" />
+      <workItem from="1606308339016" duration="4580000" />
+      <workItem from="1606619830143" duration="3293000" />
+      <workItem from="1607079214444" duration="4549000" />
+      <workItem from="1607855598235" duration="11765000" />
+      <workItem from="1607945564033" duration="11513000" />
+      <workItem from="1608019583912" duration="14341000" />
+      <workItem from="1608115599350" duration="17741000" />
+      <workItem from="1608172924513" duration="14873000" />
+      <workItem from="1608390564323" duration="212000" />
+      <workItem from="1608464860412" duration="15170000" />
+      <workItem from="1608545700684" duration="761000" />
+      <workItem from="1608547612802" duration="1484000" />
+      <workItem from="1608558834325" duration="2138000" />
+      <workItem from="1608611892226" duration="769000" />
+      <workItem from="1608625951285" duration="1259000" />
+      <workItem from="1608961357141" duration="3742000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134777000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1294" height="694" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25970873" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.34758365" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5008091" side_tool="true" weight="0.7657993" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32899627" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49919093" weight="0.32527882" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.30855018" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32899627" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32928804" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23058252" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.10966543" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5008091" side_tool="true" weight="0.7657993" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32899627" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49919093" visible="true" weight="0.32527882" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.30855018" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32899627" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32928804" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="2259" column="28" selection-start-line="2259" selection-start-column="28" selection-end-line="2259" selection-end-column="28" />
+          <folding>
+            <element signature="e#77478#77479#0" expanded="true" />
+            <element signature="e#77522#77523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mybatis-3.2.7.jar!/org/apache/ibatis/binding/MapperProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mybatis-3.2.7.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mybatis-3.2.7.jar!/org/apache/ibatis/binding/MapperMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="251" column="18" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/TeacherWindow.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/app.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/exception/QuestionExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/exception/StudentExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/mapper/PaperMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/mapper/PaperMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/mapper/TitleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/mapper/TitleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/pojo/Paper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1196#1197#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1320#1321#0" expanded="true" />
+            <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1517#1518#0" expanded="true" />
+            <element signature="e#1550#1551#0" expanded="true" />
+            <element signature="e#1602#1603#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+            <element signature="e#1742#1743#0" expanded="true" />
+            <element signature="e#1776#1777#0" expanded="true" />
+            <element signature="e#1809#1810#0" expanded="true" />
+            <element signature="e#1841#1842#0" expanded="true" />
+            <element signature="e#1888#1889#0" expanded="true" />
+            <element signature="e#1930#1931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/pojo/Title.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1136#1137#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1304#1305#0" expanded="true" />
+            <element signature="e#1338#1339#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1395#1396#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+            <element signature="e#1501#1502#0" expanded="true" />
+            <element signature="e#1530#1531#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#1610#1611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1239#1240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/service/impl/PaperServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1997#1998#0" expanded="true" />
+            <element signature="e#2052#2053#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/service/impl/TitleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/service/impl/UerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/service/PaperService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/service/TitleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/util/CountdownUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/util/ImportTitleUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/util/ImportUserUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/util/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/util/MybatisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/util/VeriCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/AddTitleWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/ChangePasswordWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/ExamWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/GradeManageWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3929#3930#0" expanded="true" />
+            <element signature="e#3959#3960#0" expanded="true" />
+            <element signature="e#4005#4006#0" expanded="true" />
+            <element signature="e#4043#4044#0" expanded="true" />
+            <element signature="e#4089#4090#0" expanded="true" />
+            <element signature="e#4128#4129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/LoginWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/SelectCourseWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/StudentManageWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/StudentWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/TeacherWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/TitleManageWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/GroupLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2900">
+          <caret line="207" column="13" selection-start-line="207" selection-start-column="13" selection-end-line="207" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/UpdateStudentWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/UpdateTitleWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/title.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/view/CreatePaperWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="84" column="37" lean-forward="true" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yyh/app/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>examonline:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>examonline</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

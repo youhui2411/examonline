@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yyh.mapper.UserMapper">
+
+    <insert id="ins" parameterType="user">
+        insert into t_user(uid, username, password, status) values(null, #{username}, #{password}, #{status})
+    </insert>
+
+    <delete id="delById" parameterType="int">
+        delete from t_user where uid=#{0}
+    </delete>
+
+    <delete id="del" parameterType="user">
+        delete from t_user where uid = #{uid}
+    </delete>
+
+    <update id="upd" parameterType="user">
+        update t_user set username=#{username}, password=#{password}, paperId=#{paperId} where uid=#{uid}
+    </update>
+
+    <select id="selById" parameterType="int" resultType="user">
+        select * from t_user where uid=#{0}
+    </select>
+
+    <select id="selAll" resultType="user">
+        select * from t_user
+    </select>
+</mapper>
